@@ -1,0 +1,26 @@
+h4,
+h3 {
+  color: red;
+  border: 2px solid;
+  text-align: center;
+}
+html {
+  background-color: aqua;
+}
+h5{
+    text-align: center;
+}
+table {
+    font-size: x-large  ;
+    font-family: 'Times New Roman', Times, serif;
+    font-size:bold;
+  text-align: center;
+  width: 500px;
+  margin-left: auto;
+  margin-right: auto;
+}
+td {
+  border: 1px solid;
+  text-decoration: none;
+  text-align: center;
+}
